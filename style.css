@@ -148,6 +148,11 @@ h3 { font-size: 1.5rem; }
     box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
+.card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
 .footer {
     text-align: center;
     padding: 2rem;
