@@ -7,4 +7,3 @@ Ouvrez simplement le fichier `index.html` dans votre navigateur pour découvrir 
 Bonne visite !
 
 Vous pouvez aussi cloner le dépôt ou utiliser l'option « Download ZIP » sur GitHub pour récupérer tous les fichiers.
-
